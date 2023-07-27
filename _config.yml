@@ -13,7 +13,7 @@ timezone: 'America/New_York'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://fism.io
+url: https://blog.fism.io
 permalink: /posts/:title/
 permalink_defaults:
 pretty_urls:
