@@ -87,6 +87,13 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: typography
 
+plugin:
+  - hexo-generator-category-enhance
+  - hexo-generator-feed
+  - hexo-asset-image
+  - hexo-prism-plugin
+  - hexo-toc
+
 prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
   theme: 'default'
