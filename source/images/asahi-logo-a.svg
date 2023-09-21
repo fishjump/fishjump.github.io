@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33.866669mm"
+   height="33.866676mm"
+   viewBox="0 0 33.866669 33.866676"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-dev (2e9e3a5ef8, 2023-09-21, custom)"
+   sodipodi:docname="asahi-logo-a.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.11125"
+     inkscape:cx="98.087739"
+     inkscape:cy="165.5793"
+     inkscape:window-width="1440"
+     inkscape:window-height="2481"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.07946,-104.70297)">
+    <rect
+       style="color:#000000;overflow:visible;fill:#2c2c2c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+       id="rect128236-6"
+       width="33.866669"
+       height="33.866669"
+       x="79.07946"
+       y="104.70297" />
+    <path
+       style="color:#000000;overflow:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:2.11667, 4.23333;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+       d="m 79.079477,104.70298 23.283333,33.86667 h -5.820825 l -5.29168,-7.40833 -12.170828,7.40833"
+       id="path164581-0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="color:#000000;overflow:visible;fill:#96caf3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:2.11667, 4.23333;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+       d="m 88.604477,127.98632 -5.29167,3.175 v -11.1125 z"
+       id="path167170-6"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

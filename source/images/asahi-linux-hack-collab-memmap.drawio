@@ -1,0 +1,133 @@
+<mxfile host="65bd71144e">
+    <diagram id="58SO3tEJWvLtK6XkHxIX" name="Page-1">
+        <mxGraphModel dx="1315" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="434" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="200" width="230" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="440" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="80" y="220" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="435" value="0x1500bd8000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="440">
+                    <mxGeometry y="20" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="436" value="?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="440">
+                    <mxGeometry x="120" y="20" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="437" value="?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="440">
+                    <mxGeometry x="150" y="20" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <UserObject label="FW" placeholders="1" name="Variable" id="438">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="440">
+                        <mxGeometry x="120" width="30" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="GPU" placeholders="1" name="Variable" id="439">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="440">
+                        <mxGeometry x="150" width="30" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="441" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="80" y="280" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="442" value="0x1500bf8000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="441">
+                    <mxGeometry y="20" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="443" value="?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="441">
+                    <mxGeometry x="120" y="20" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="444" value="?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="441">
+                    <mxGeometry x="150" y="20" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <UserObject label="FW" placeholders="1" name="Variable" id="445">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="441">
+                        <mxGeometry x="120" width="30" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="GPU" placeholders="1" name="Variable" id="446">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="441">
+                        <mxGeometry x="150" width="30" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Textures, Models, etc." placeholders="1" name="Variable" id="447">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+                        <mxGeometry x="70" y="370" width="210" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="448" value="User Space" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="430" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="449" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="225" width="230" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="450" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="375" y="245" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="451" value="0xfa0000d0000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="450">
+                    <mxGeometry y="20" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="452" value="?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="450">
+                    <mxGeometry x="120" y="20" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="453" value="?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="450">
+                    <mxGeometry x="150" y="20" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <UserObject label="FW" placeholders="1" name="Variable" id="454">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="450">
+                        <mxGeometry x="120" width="30" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="GPU" placeholders="1" name="Variable" id="455">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="450">
+                        <mxGeometry x="150" width="30" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="456" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="375" y="305" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="457" value="0xfa00c1a8000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="456">
+                    <mxGeometry y="20" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="458" value="?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="456">
+                    <mxGeometry x="120" y="20" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="459" value="?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="456">
+                    <mxGeometry x="150" y="20" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <UserObject label="FW" placeholders="1" name="Variable" id="460">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="456">
+                        <mxGeometry x="120" width="30" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="GPU" placeholders="1" name="Variable" id="461">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="456">
+                        <mxGeometry x="150" width="30" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="463" value="Kernel Space" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="430" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="465" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="464" target="451">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="464" value="It may be Buffer Control or other R/Wable things&lt;br&gt;At least, it is r/w permission" style="text;strokeColor=default;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="90" width="395" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="467" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="466" target="442">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="466" value="It must be R/W or RO, &lt;br&gt;otherwise,&lt;br&gt;&amp;nbsp;it's pointless to let it be in the user space" style="text;strokeColor=default;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="490" width="350" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="469" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="468" target="457">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="468" value="Firmware Command Buffer???" style="text;strokeColor=default;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="585" y="410" width="255" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
