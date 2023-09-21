@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="58SO3tEJWvLtK6XkHxIX" name="Page-1">
+        <mxGraphModel dx="1323" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="230" width="140" height="530" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="One Big&lt;br&gt;Table" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="170" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Page Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="260" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Page Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="290" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Page Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="320" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Page Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="350" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Page Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="450" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Page Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="480" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Page Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="510" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Page Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="540" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <UserObject label="...." placeholders="1" name="Variable" id="23">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;horizontal=0;" vertex="1" parent="1">
+                        <mxGeometry x="220" y="410" width="80" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="...." placeholders="1" name="Variable" id="24">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;horizontal=0;" vertex="1" parent="1">
+                        <mxGeometry x="220" y="640" width="80" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="25" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="465" width="530" height="60" as="geometry"/>
+                </mxCell>
+                <UserObject label="&lt;b&gt;1TB vAddr with 16KB page = 67108864 page items&lt;/b&gt;" placeholders="1" name="Variable" id="26">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+                        <mxGeometry x="425" y="490" width="290" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
