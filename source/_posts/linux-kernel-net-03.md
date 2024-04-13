@@ -21,7 +21,7 @@ bear make
 sockfd = socket(AF_INET, SOCK_STREAM, 0)
 ```
 
-上面例子中的三个分别是`family`（或者有些地方称之为`domain`），`type`和`protocol`。其中`family`指的是协议族，常见的有`AF_INET`和`AF_INET6`，即IPv4和IPv6。第二个参数叫做`type`，即`socket`连接的类型，Linux中定义的且常用的有`SOCK_STREAM`和`SOCK_DGRAM`，通常来说对应了`TCP`和`UDP`协议。但是它们本质上是指选择一套有连接或者无连接的协议（数据报协议）。第三个参数`protocol`则代表了通信协议。这里是一个特殊情况，当你决定了`type`参数之后将`protocol`设置为`0`，那么即默认选择TCP或者UDP。你当然也可以显式指明`IPPROTO_TCP`或`IPPROTO_UDP`。这里需要注意一点，`type`和`protocol`是不能自由排列组合的，例如指定`type`为`SOCKET_STREAM`且指定`protocol`为`IPPROTO_UDP`是非法的。
+上面例子中的三个分别是`family`（或者有些地方称之为`domain`），`type`和`protocol`。其中`family`指的是协议族，常见的有`AF_INET`和`AF_INET6`，即IPv4和IPv6。第二个参数叫做`type`，即`socket`连接的类型，Linux中定义的且常用的有`SOCK_STREAM`和`SOCK_DGRAM`，通常来说对应了TCP和UDP协议。但是它们本质上是指选择一套有连接或者无连接的协议（数据报协议）。第三个参数`protocol`则代表了通信协议。这里是一个特殊情况，当你决定了`type`参数之后将`protocol`设置为`0`，那么即默认选择TCP或者UDP。你当然也可以显式指明`IPPROTO_TCP`或`IPPROTO_UDP`。这里需要注意一点，`type`和`protocol`是不能自由排列组合的，例如指定`type`为`SOCKET_STREAM`且指定`protocol`为`IPPROTO_UDP`是非法的。
 
 ## 从系统调用入口开始
 
